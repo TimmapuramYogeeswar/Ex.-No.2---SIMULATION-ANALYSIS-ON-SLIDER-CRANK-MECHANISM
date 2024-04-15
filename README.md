@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![image](https://github.com/TimmapuramYogeeswar/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/154494746/8c4c7a18-b4e6-414a-9587-0a06ce579ced)
+![Screenshot 2024-04-15 135640](https://github.com/TimmapuramYogeeswar/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/154494746/541cf4ca-e031-4212-ace8-949680200170)
 
 
 ### Name:Timmapuram Yogeeswar
